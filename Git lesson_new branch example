@@ -1,0 +1,12 @@
+# Git lesson
+
+step: 1 checkout a new branch using the terminal ("git checkout -b new_branch")
+step: 2 make a new file in the new_branch project
+step: 3 commit these changes
+Step: 4 push the changes
+step: 5 make a pull request
+step: 6 merge.
+
+
+Omg I got a Neuroscience branch on Git.
+
